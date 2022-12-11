@@ -5,9 +5,9 @@
 
 Team TeNET
 Team Members:
-1) Anirudh Garg, Department of Electrical Engineering
-2) Anubhav Satpathy, Department of Electrical Engineering
-3) Nitish Vikas Deshpande, Department of Electrical Engineering
+1) Anirudh Garg, Department of Electrical Engineering, Indian Institute of Technology Kanpur
+2) Anubhav Satpathy, Department of Electrical Engineering, Indian Institute of Technology Kanpur
+3) Nitish Vikas Deshpande, Department of Electrical Engineering, Indian Institute of Technology Kanpur
 
 
 Project Topic: Online Speaker Diarization with Interactive Learning
